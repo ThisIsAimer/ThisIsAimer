@@ -2,7 +2,7 @@
 - 👀 I’m interested in you
 - 🌱 I’m trying to learn about you
 - 💞️ I’m looking to collaborate with you
-- 📫 Reach me you
+- 📫 I wanna be with you
 - 😄 Pronouns: I am your's
 - ⚡ Fun fact: Java, I'm in love with you
 
