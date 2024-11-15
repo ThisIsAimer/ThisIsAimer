@@ -14,21 +14,31 @@
 
 
 # 💻 Tech Stack:
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThisIsAimer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThisIsAimer&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsAimer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisIsAimer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsAimer&theme=tokyonight&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsAimer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120" />
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThisIsAimer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=ThisIsAimer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"  />
+</div>
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThisIsAimer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## ✍ Random Dev Quote
+<div align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="200" alt="languages graph"  />
+</div>
+
+## 🔝 Top Contributed Repo
+<div align="center">
+ <img src="https://github-contributor-stats.vercel.app/api?username=ThisIsAimer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="230"  />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
