@@ -20,7 +20,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThisIsAimer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="160" alt="stats graph"  />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsAimer&hide_border=false" height="160" alt="languages graph"  /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsAimer&theme=tokyonight&hide_border=false" height="160" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsAimer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="110" />
 </div>
 
