@@ -26,7 +26,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=ThisIsAimer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"  />
+ <img src="https://github-profile-trophy.vercel.app/?username=ThisIsAimer&row=1&column=7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"  />
 </div>
 
 
