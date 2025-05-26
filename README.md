@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThisIsAimer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="160" alt="stats graph"  />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsAimer&theme=tokyonight&hide_border=false" height="160" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsAimer&theme=tokyonight&langs_count=7&hide_border=false&locale=en&custom_title=My%20brain%20🧠" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsAimer&theme=tokyonight&langs_count=7&hide_border=false&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
  </div>
 
 ## 🏆 GitHub Trophies
