@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Raunak</h1>
 <h3 align="center">It looks like you wanna know more about me!</h3>
 # 💫 About Me:
-- 👋 Hi, I’m @ThisIsAimer<br>- 👀 I’m interested in you<br>- 🌱 I’m trying to learn about you<br>- 💞 I’m looking to collaborate with you<br>- 📫 I want to be with you<br>- 😄 Pronouns: I am your's<br>- ⚡ Fun fact: Coding, I'm in love with you<br>
+- 👋 Hi, I’m @ThisIsAimer<br>- 👀 I’m interested in you<br>- 🌱 I’m trying to learn about you<br>- 💞 I'd love to collaborate with you<br>- 📫 I want to be with you<br>- 😄 Pronouns: I am your's<br>- ⚡ Fun fact: Golang, I'm in love with you<br>
 
 
 # 💻 Tech Stack:
@@ -39,9 +39,3 @@
 <div align="center">
  <img src="https://github-contributor-stats.vercel.app/api?username=ThisIsAimer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="230"  />
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-ThisIsAimer/ThisIsAimer is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
